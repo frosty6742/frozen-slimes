@@ -1,6 +1,6 @@
 # Frozen Slimes 
 
-## Hi everyone, this is a slime vr project to create slime cases that are similar in design to the official cases but fit all the diy components.
+## Hi everyone, this is a slime vr project to create slime cases that are similar to the official cases but fit all the diy components.
 
 ### contact: lynxo#7417
 
