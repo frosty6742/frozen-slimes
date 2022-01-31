@@ -55,7 +55,11 @@ Final four pads are for soldering an extension
 
 
 
-
+## Links
+Here are some useful and fun resources:
+- [The Docs (SlimeVR Documentation)](https://docs.slimevr.dev/)
+- [Github Repository SlimeVR](https://github.com/SlimeVR/)
+- [SlimeVR Discord](https://discord.gg/SlimeVR)
 
 
 
