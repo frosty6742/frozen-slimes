@@ -49,11 +49,11 @@ Stls and Fs3d files will be avilable soon!
 
 The gerber file for this is labled ``` frozen slime gerber file v1 ```
 
-Top left pads are for battery
+- Top left pads are for battery
 
-Switch pads are for switch, wiring direction does not matter
+- Switch pads are for switch, wiring direction does not matter
 
-Final four pads are for soldering an extension
+- Final four pads are for soldering an extension
 
 
 ### Printing 
