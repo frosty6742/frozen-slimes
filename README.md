@@ -9,6 +9,7 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
 
 ## Index
 - [Components](#Components)
+- [PCB](#PCB)
 - [Compatibility](#Compatibility)
 - [Versions](#Versions)
 - [Printing](#Printing)
@@ -33,12 +34,12 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
     - [503759](https://www.aliexpress.com/item/1005003257130562.html)
 
 
-### PCB 
+## PCB 
 *this has not been tested yet, mine are currently ordered and in the mail*
 ![pcb](https://user-images.githubusercontent.com/98719680/151724886-2c5099e3-fb9f-46b9-8021-25dd6d12512c.png)
 
 
-![unasdfknown](https://user-images.githubusercontent.com/98719680/151725786-9f9a4075-871c-4021-ad3d-9da2e22d66e9.png)
+![unknown](https://user-images.githubusercontent.com/98719680/151725786-9f9a4075-871c-4021-ad3d-9da2e22d66e9.png)
 
 The gerber file for this is labled ``` frozen slime gerber file v1 ```
 
