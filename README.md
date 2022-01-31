@@ -7,9 +7,16 @@
 This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charger. On my personal slimes I use 18650 batteries and wanted a case that can fit these with out being massive. Offical [Offical Component Guide](https://docs.slimevr.dev/diy/components-guide.html)
 
 
-## Components
+## Index
+- [Components](#Components)
+- [Compatibility](#Compatibility)
+- [Versions](#Versions)
+- [Printing](#Printing)
+- [Assembly](#Assembly)
+- [Links](#Links)
 
-For the Hyperion you will need the following components:
+
+## Components
 
     
 - [TP4056](https://www.amazon.com/HiLetgo-Lithium-Battery-Charging-Protect/dp/B00LTQU2RK/ref=sr_1_3?crid=31BCDZYQGA5IU&keywords=TP4056&qid=1643591253&sprefix=tp4056%2Caps%2C124&sr=8-3)
