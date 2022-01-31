@@ -60,7 +60,7 @@ Final four pads are for soldering an extension
 
 Printing instructions for how you want to build your slimes will be added here
 
-# Assembly 
+### Assembly 
 
 Assembly instructions will be added here in the future 
 Feel free to reach out to me with any questions 
