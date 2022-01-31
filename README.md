@@ -9,9 +9,8 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
 
 ## Index
 - [Components](#Components)
+- [Case](#Case)
 - [PCB](#PCB)
-- [Compatibility](#Compatibility)
-- [Versions](#Versions)
 - [Printing](#Printing)
 - [Assembly](#Assembly)
 - [Links](#Links)
