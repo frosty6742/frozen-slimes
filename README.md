@@ -19,5 +19,7 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
 The gerber file for this is labled ``` frozen slime gerber file v1 ```
 
 Top left pads are for battery
+
 Switch pads are for switch, wiring direction does not matter
+
 Final four pads are for soldering an extension
