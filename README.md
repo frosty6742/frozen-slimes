@@ -33,6 +33,13 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
     - [503759](https://www.aliexpress.com/item/1005003257130562.html)
 
 
+## Case
+
+Curently working on a fusion file, waiting for the tottal height of the pcb and components so I can keep the case as compact as possible
+
+Stls and Fs3d files will be avilable soon!
+
+
 ## PCB 
 *this has not been tested yet, mine are currently ordered and in the mail*
 ![pcb](https://user-images.githubusercontent.com/98719680/151724886-2c5099e3-fb9f-46b9-8021-25dd6d12512c.png)
@@ -49,7 +56,14 @@ Switch pads are for switch, wiring direction does not matter
 Final four pads are for soldering an extension
 
 
+## Printing 
 
+Printing instructions for how you want to build your slimes will be added here
+
+## Assembly 
+
+Assembly instructions will be added here in the future 
+Feel free to reach out to me with any questions 
 
 
 
