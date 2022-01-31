@@ -58,7 +58,7 @@ The gerber file for this is labled ``` frozen slime gerber file v1 ```
 *may make solder pads smaller on future versions*
 
 
-*if you want to buy pcb packs straight from me or even fully assembled pcbs or even whole trackers dm me*
+*if you want to buy pcb packs, fully assembled pcbs or even whole trackers dm me*
 
 
 ### Printing 
