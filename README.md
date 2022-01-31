@@ -16,7 +16,7 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
 - [Links](#Links)
 
 
-## Components
+# Components
 
     
 - [TP4056](https://www.amazon.com/HiLetgo-Lithium-Battery-Charging-Protect/dp/B00LTQU2RK/ref=sr_1_3?crid=31BCDZYQGA5IU&keywords=TP4056&qid=1643591253&sprefix=tp4056%2Caps%2C124&sr=8-3)
@@ -33,14 +33,14 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
     - [503759](https://www.aliexpress.com/item/1005003257130562.html)
 
 
-## Case
+# Case
 
 Curently working on a fusion file, waiting for the tottal height of the pcb and components so I can keep the case as compact as possible
 
 Stls and Fs3d files will be avilable soon!
 
 
-## PCB 
+# PCB 
 *this has not been tested yet, mine are currently ordered and in the mail*
 ![pcb](https://user-images.githubusercontent.com/98719680/151724886-2c5099e3-fb9f-46b9-8021-25dd6d12512c.png)
 
@@ -56,11 +56,11 @@ Switch pads are for switch, wiring direction does not matter
 Final four pads are for soldering an extension
 
 
-## Printing 
+# Printing 
 
 Printing instructions for how you want to build your slimes will be added here
 
-## Assembly 
+# Assembly 
 
 Assembly instructions will be added here in the future 
 Feel free to reach out to me with any questions 
@@ -69,7 +69,7 @@ Feel free to reach out to me with any questions
 
 
 
-## Links
+# Links
 Resources:
 - [The Docs (SlimeVR Documentation)](https://docs.slimevr.dev/)
 - [Github Repository SlimeVR](https://github.com/SlimeVR/)
