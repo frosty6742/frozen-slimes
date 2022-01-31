@@ -55,6 +55,8 @@ The gerber file for this is labled ``` frozen slime gerber file v1 ```
 
 - Final four pads are for soldering an extension
 
+*may make solder pads smaller on future versions*
+
 
 ### Printing 
 
