@@ -6,17 +6,22 @@
 
 This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charger. On my personal slimes I use 18650 batteries and wanted a case that can fit these with out being massive. Offical [Offical Component Guide](https://docs.slimevr.dev/diy/components-guide.html)
 
+
+## Components
+
 For the Hyperion you will need the following components:
 
-- [TP4056](https://www.aliexpress.com/item/32649780468.html)
-- [Wemos D1 Mini](https://www.aliexpress.com/wholesale?SearchText=D1+mini)
-- [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)
-- [IMU](https://docs.slimevr.dev/components-guide.html) (*BNO08x chips are currently in a pretty bad shortage*)
-    - [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)  
-- [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, SS12D00G3 is smaller and looks better for this case*)
-    - [SS12D00G3](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
+    
+- [TP4056](https://www.amazon.com/HiLetgo-Lithium-Battery-Charging-Protect/dp/B00LTQU2RK/ref=sr_1_3?crid=31BCDZYQGA5IU&keywords=TP4056&qid=1643591253&sprefix=tp4056%2Caps%2C124&sr=8-3)
+- [Wemos D1 Mini](https://www.amazon.com/Organizer-ESP8266-Internet-Development-Compatible/dp/B081PX9YFV/ref=sr_1_3?crid=2FMF3NVYGOSPK&keywords=wemos+d1+mini&qid=1643591309&sprefix=wemos+d1+mini%2Caps%2C136&sr=8-3)
+- [40mm straps] made these from elastic and velcro
+- [IMU](https://docs.slimevr.dev/components-guide.html)
+    - [MPU6050](https://www.amazon.com/MPU-6050-Accelerometer-Gyroscope-Converter-Compatible/dp/B08TH9NH55/ref=sr_1_6?crid=1W65V3QJ27XN&keywords=mpu+6050&qid=1643591376&sprefix=mpu+6050%2Caps%2C136&sr=8-6)  
+- [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, this rocker is what this case is designed for*)
+    - [rocker](https://www.amazon.com/dp/B01N2U8PK0?psc=1&ref=ppx_yo2_dt_b_product_details)
     - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
-- [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest, 503759 is smaller and usually higher capacity*)
+- [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest, I used 18650s as they will last for a solid 30 hours, I will have cases for each version eventualy*)
+    - [18650](https://www.amazon.com/flashlights-Rechargable-universal-zoomable-resistant/dp/B089N1HS3Y/ref=sr_1_7?keywords=18650&qid=1643591647&sr=8-7)
     - [804040](https://www.aliexpress.com/item/33021202630.html)
     - [503759](https://www.aliexpress.com/item/1005003257130562.html)
 
@@ -35,3 +40,30 @@ Top left pads are for battery
 Switch pads are for switch, wiring direction does not matter
 
 Final four pads are for soldering an extension
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+- [TP4056](https://www.aliexpress.com/item/32649780468.html)
+- [Wemos D1 Mini](https://www.aliexpress.com/wholesale?SearchText=D1+mini)
+- [40mm straps](https://www.aliexpress.com/item/1005002350231996.html)
+- [IMU](https://docs.slimevr.dev/components-guide.html) (*BNO08x chips are currently in a pretty bad shortage*)
+    - [MPU6050](https://www.aliexpress.com/wholesale?SearchText=MPU6050)  
+- [Switch](https://docs.slimevr.dev/components-guide.html) (*SS22F32 is what the docs suggest, SS12D00G3 is smaller and looks better for this case*)
+    - [SS12D00G3](https://www.aliexpress.com/wholesale?SearchText=SS12D00G3)
+    - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
+- [Battery](https://docs.slimevr.dev/components-guide.html) (*804040 is what the docs suggest, 503759 is smaller and usually higher capacity*)
+    - [804040](https://www.aliexpress.com/item/33021202630.html)
+    - [503759](https://www.aliexpress.com/item/1005003257130562.html)
