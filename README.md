@@ -2,7 +2,7 @@
 
 ## Hi everyone, this is a slime vr project to create slime cases that are similar to the official cases but fit all the diy components.
 
-## This is a work in progress and I havent gotten my pcbs yet to test! 
+## This is a work in progress, PCBS have been tested and do work!
 
 ### contact: lynxo#7417
 
