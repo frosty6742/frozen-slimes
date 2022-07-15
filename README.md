@@ -72,7 +72,7 @@ Tips
 
 ### Assembly 
 Steps 
-- Print main tracker case
+- [ ] Print main tracker case
 - Print lid 
 - Print cap 
 
