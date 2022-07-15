@@ -44,7 +44,7 @@ Stls and Fs3d files will be avilable soon!
 
 
 ### PCB 
-*this has not been tested yet, mine are currently ordered and in the mail*
+This PCB lets every component be soldered on without any extra wires. I ordered way to many so send me a message if you want to buy blank / partly assembled or fully assembled boards.
 ![pcb](https://user-images.githubusercontent.com/98719680/151724886-2c5099e3-fb9f-46b9-8021-25dd6d12512c.png)
 
 
