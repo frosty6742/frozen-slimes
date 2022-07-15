@@ -66,8 +66,9 @@ The gerber file for this is labled ``` frozen slime gerber file v1 ```
 
 
 ### Printing 
-
-Printing instructions for how you want to build your slimes will be added here
+Tips
+- Smaller layer height will make the prints come out higher quality (duh). 
+- I like to print the lid vertically with the only flat surface on the bed so that the margins around the battery are extreamlly exact so the battery dosent rattle. 
 
 ### Assembly 
 
