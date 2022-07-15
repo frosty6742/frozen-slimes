@@ -44,7 +44,7 @@ Stls and Fs3d files will be avilable soon!
 
 
 ### PCB 
-This PCB lets every component be soldered on without any extra wires. 
+This PCB lets every component be soldered on without any extra wires. This includes the diodes and resistor for battery sense and protected charging.  
 ![pcb](https://user-images.githubusercontent.com/98719680/151724886-2c5099e3-fb9f-46b9-8021-25dd6d12512c.png)
 
 
@@ -79,6 +79,8 @@ Steps
 - [ ] Solder charge board to PCB
 - [ ] Solder mpu to PCB 
 - [ ] Solder pins from wemo D1 to wemo, set through holes on PCB and solder the pins on the backside of the PCB
+
+- [ ] TODO add instructions for diodes 
 
 - [ ] Set PCB inside the case 
 - [ ] Slide switch though front of case and solder to PCB
