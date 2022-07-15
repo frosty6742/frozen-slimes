@@ -37,9 +37,12 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
 
 ### Case
 
+![IMG_5092](https://user-images.githubusercontent.com/98719680/179154118-54a93cc8-1396-49c0-82b8-989af2cbaeec.jpg)
+
 Curently working on a fusion file, waiting for the tottal height of the pcb and components so I can keep the case as compact as possible
 
 Stls and Fs3d files will be avilable soon!
+
 
 
 ### PCB 
@@ -50,6 +53,7 @@ Stls and Fs3d files will be avilable soon!
 ![unknown](https://user-images.githubusercontent.com/98719680/151725786-9f9a4075-871c-4021-ad3d-9da2e22d66e9.png)
 
 The gerber file for this is labled ``` frozen slime gerber file v1 ```
+![IMG_5080](https://user-images.githubusercontent.com/98719680/179153864-273dd1f5-f176-403c-97f8-0ed151fe021a.jpg)
 
 - Top left pads are for battery
 
