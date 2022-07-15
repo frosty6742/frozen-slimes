@@ -39,8 +39,6 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
 
 ![IMG_5092](https://user-images.githubusercontent.com/98719680/179154118-54a93cc8-1396-49c0-82b8-989af2cbaeec.jpg)
 
-Curently working on a fusion file, waiting for the tottal height of the pcb and components so I can keep the case as compact as possible
-
 Stls and Fs3d files will be avilable soon!
 
 
