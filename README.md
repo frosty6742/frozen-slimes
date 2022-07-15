@@ -85,9 +85,13 @@ Steps
 - [ ] Add wires to battery and solder to + and - on PCB
 
 - [ ] Add M3 insert into plastic. I recomend putting insert on a M3 screw on a hex key and heating with a lighter for 5 to 7 seconds depending on flimanet used. Slide insert from inside of case to the outside 
+![IMG_6932 1](https://user-images.githubusercontent.com/98719680/179157650-f6855e0b-5126-4473-8eb7-2c1077d05704.jpg)
+
+![IMG_6936](https://user-images.githubusercontent.com/98719680/179157821-9063bb6c-d6fe-42cc-9a80-24e61e10c817.jpg)
+
+![IMG_6934](https://user-images.githubusercontent.com/98719680/179157832-a3ff8dd8-6f05-40e3-854c-6d48003c82ad.jpg)
+
 - [ ] Feel free to reach out to me with any questions 
-
-
 
 
 
