@@ -73,19 +73,19 @@ Tips
 ### Assembly 
 Steps 
 - [ ] Print main tracker case
-- Print lid 
-- Print cap 
+- [ ] Print lid 
+- [ ] Print cap 
 
-- Solder charge board to PCB
-- Solder mpu to PCB 
-- Solder pins from wemo D1 to wemo, set through holes on PCB and solder the pins on the backside of the PCB
+- [ ] Solder charge board to PCB
+- [ ] Solder mpu to PCB 
+- [ ] Solder pins from wemo D1 to wemo, set through holes on PCB and solder the pins on the backside of the PCB
 
-- Set PCB inside the case 
-- Slide switch though front of case and solder to PCB
-- Add wires to battery and solder to + and - on PCB
+- [ ] Set PCB inside the case 
+- [ ] Slide switch though front of case and solder to PCB
+- [ ] Add wires to battery and solder to + and - on PCB
 
-- Add M3 insert into plastic. I recomend putting insert on a M3 screw on a hex key and heating with a lighter for 5 to 7 seconds depending on flimanet used. Slide insert from inside of case to the outside 
-- Feel free to reach out to me with any questions 
+- [ ] Add M3 insert into plastic. I recomend putting insert on a M3 screw on a hex key and heating with a lighter for 5 to 7 seconds depending on flimanet used. Slide insert from inside of case to the outside 
+- [ ] Feel free to reach out to me with any questions 
 
 
 
