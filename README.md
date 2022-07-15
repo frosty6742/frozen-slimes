@@ -71,9 +71,21 @@ Tips
 - I like to print the lid vertically with the only flat surface on the bed so that the margins around the battery are extreamlly exact so the battery dosent rattle. 
 
 ### Assembly 
+Steps 
+- Print main tracker case
+- Print lid 
+- Print cap 
 
-Assembly instructions will be added here in the future 
-Feel free to reach out to me with any questions 
+- Solder charge board to PCB
+- Solder mpu to PCB 
+- Solder pins from wemo D1 to wemo, set through holes on PCB and solder the pins on the backside of the PCB
+
+- Set PCB inside the case 
+- Slide switch though front of case and solder to PCB
+- Add wires to battery and solder to + and - on PCB
+
+- Add M3 insert into plastic. I recomend putting insert on a M3 screw on a hex key and heating with a lighter for 5 to 7 seconds depending on flimanet used. Slide insert from inside of case to the outside 
+- Feel free to reach out to me with any questions 
 
 
 
