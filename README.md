@@ -89,7 +89,7 @@ Steps
 - [ ] Slide switch though front of case and solder to PCB
 - [ ] Add wires to battery and solder to + and - on PCB 
 (People panic about soldering lions because heating up the battery can shorten lifespan and cause failure. Roughing up the contacts with sandpaper and throwing some score marks in the contacts can make solder stick easier. 
-I just get a blob of solder on the tip of my iron (800c) and set it on the battery. Then just touch the iron to it and set the wire inside. If you have to try for more then around 15 seconds just set it aside and work on another battery. This can be kind of tricky for the first time but people stress more then really needed.)
+I just get a blob of solder on the tip of my iron (800f) and set it on the battery. Then just touch the iron to it and set the wire inside. If you have to try for more then around 15 seconds just set it aside and work on another battery. This can be kind of tricky for the first time but people stress more then really needed.)
 
 - [ ] Add M3 insert into plastic. I recomend putting insert on a M3 screw on a hex key and heating with a lighter for 5 to 7 seconds depending on flimanet used. Slide insert from inside of case to the outside 
 ![IMG_6932 1](https://user-images.githubusercontent.com/98719680/179158043-c3d5d297-a795-4f47-a854-b419975b66b6.jpg)
