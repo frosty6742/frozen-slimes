@@ -26,8 +26,7 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
 - [40mm straps] made these from elastic and velcro
 - [IMU docs](https://docs.slimevr.dev/diy/components-guide.html)
     - [MPU6050](https://www.amazon.com/MPU-6050-Accelerometer-Gyroscope-Converter-Compatible/dp/B08TH9NH55/ref=sr_1_6?crid=1W65V3QJ27XN&keywords=mpu+6050&qid=1643591376&sprefix=mpu+6050%2Caps%2C136&sr=8-6)  
-- [Switch](https://docs.slimevr.dev/diy/components-guide.htmll) (*SS22F32 is what the docs suggest, this rocker is what this case is designed for*)
-    - [rocker](https://www.amazon.com/dp/B01N2U8PK0?psc=1&ref=ppx_yo2_dt_b_product_details)
+- [Switch](https://docs.slimevr.dev/diy/components-guide.htmll)
     - [SS22F32](https://www.aliexpress.com/item/32975535599.html)
 - [Battery](https://docs.slimevr.dev/diy/components-guide.html) (*804040 is what the docs suggest, I used 18650s as they will last for a solid 30 hours, I will have cases for each version eventualy*)
     - [18650](https://www.amazon.com/flashlights-Rechargable-universal-zoomable-resistant/dp/B089N1HS3Y/ref=sr_1_7?keywords=18650&qid=1643591647&sr=8-7)
