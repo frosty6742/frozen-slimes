@@ -2,9 +2,9 @@
 
 ## Hi everyone, this is a slime vr project to create slime tracker cases that are similar to the official cases but fit all the diy components.
 
-## This is a work in progress, PCBS have been tested and do work, cases have been tested but are still being refined. 
-
 ### Contact: lynxo#7417
+
+## Check out the new discord server and chat with other people building some slimes! https://discord.gg/vhHEsKjWGV
 
 This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charger. On my personal slimes I use 18650 batteries and wanted a case that can fit these with out being massive. [Offical Component Guide](https://docs.slimevr.dev/diy/components-guide.html)
 
