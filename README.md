@@ -1,6 +1,7 @@
 # Frozen Slimes 
 
-### Contact: lynxo#7417
+### Contact: artemis#8615
+
 
 ## Check out the new discord server and chat with other people building some slimes! https://discord.gg/vhHEsKjWGV
 
