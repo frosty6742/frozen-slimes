@@ -37,7 +37,8 @@ This project will currently be using a Wemo D1 mini, mpu6050, and a TP4056 charg
 
 ### Case
 
-![IMG_5092](https://user-images.githubusercontent.com/98719680/179154118-54a93cc8-1396-49c0-82b8-989af2cbaeec.jpg)
+![179154118-54a93cc8-1396-49c0-82b8-989af2cbaeec](https://user-images.githubusercontent.com/98719680/227734713-58f0decb-38d4-4aa8-9286-1f77ffbb351c.jpg)
+
 
 Stls and Fs3d files will be avilable soon!
 
@@ -45,13 +46,13 @@ Stls and Fs3d files will be avilable soon!
 
 ### PCB 
 This PCB lets every component be soldered on without any extra wires. This includes the diodes and resistor for battery sense and protected charging.  
-![pcb](https://user-images.githubusercontent.com/98719680/151724886-2c5099e3-fb9f-46b9-8021-25dd6d12512c.png)
+![151724886-2c5099e3-fb9f-46b9-8021-25dd6d12512c](https://user-images.githubusercontent.com/98719680/227734726-2b1583f2-802d-49e9-b209-765abb201bdc.png)
 
-
-![unknown](https://user-images.githubusercontent.com/98719680/151725786-9f9a4075-871c-4021-ad3d-9da2e22d66e9.png)
+![151725786-9f9a4075-871c-4021-ad3d-9da2e22d66e9](https://user-images.githubusercontent.com/98719680/227734730-0502b22f-1bf0-4fee-b222-e79eb37a7a76.png)
 
 The gerber file for this is labled ``` frozen slime gerber file v1 ```
-![IMG_5080](https://user-images.githubusercontent.com/98719680/179153864-273dd1f5-f176-403c-97f8-0ed151fe021a.jpg)
+![179153864-273dd1f5-f176-403c-97f8-0ed151fe021a](https://user-images.githubusercontent.com/98719680/227734744-438f7aa4-5166-41e5-9350-1b442b70dafe.jpg)
+
 
 - Top left pads are for battery
 
@@ -91,11 +92,10 @@ Steps
 I just get a blob of solder on the tip of my iron (800f) and set it on the battery. Then just touch the iron to it and set the wire inside. If you have to try for more then around 15 seconds just set it aside and work on another battery. This can be kind of tricky for the first time but people stress more then really needed.)
 
 - [ ] Add M3 insert into plastic. I recomend putting insert on a M3 screw on a hex key and heating with a lighter for 5 to 7 seconds depending on flimanet used. Slide insert from inside of case to the outside 
-![IMG_6932 1](https://user-images.githubusercontent.com/98719680/179158043-c3d5d297-a795-4f47-a854-b419975b66b6.jpg)
+![179158043-c3d5d297-a795-4f47-a854-b419975b66b6](https://user-images.githubusercontent.com/98719680/227734763-53320ba5-9987-46ab-998f-02493e345269.jpg)
 
-![IMG_6936](https://user-images.githubusercontent.com/98719680/179157821-9063bb6c-d6fe-42cc-9a80-24e61e10c817.jpg)
+![179157821-9063bb6c-d6fe-42cc-9a80-24e61e10c817](https://user-images.githubusercontent.com/98719680/227734775-b4eba9c5-0f17-4ed9-a3d7-80ebbb0ccb63.jpg)
 
-![IMG_6934](https://user-images.githubusercontent.com/98719680/179157832-a3ff8dd8-6f05-40e3-854c-6d48003c82ad.jpg)
 
 - [ ] Feel free to reach out to me with any questions 
 
